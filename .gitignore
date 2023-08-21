@@ -1,1 +1,4 @@
-bin
+*.o
+compile_commands.json
+build
+out
